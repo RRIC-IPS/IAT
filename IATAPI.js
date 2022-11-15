@@ -30,7 +30,7 @@ debriefingTextTop : 'Your result:', //Will be shown above the feedback text.
 //We strongly recommend that you provide all these details in the debriefing of the experiment.
 debriefingTextBottom : 'This result is not a definitive assessment of your attitudes. It is provided for educational purposes only.', //Will be shown below the feedback text. 
 			
-			fullscreen:false, //Should we show the task in full screen? A Qualtrics-only feature because in the usual Minno, we can go full-screen right at the beginning of the study.
+			fullscreen:true, //Should we show the task in full screen? A Qualtrics-only feature because in the usual Minno, we can go full-screen right at the beginning of the study.
         
 			isTouch:false, //Set whether the task is on a touch device.
 			//Set the canvas of the task

@@ -40,7 +40,7 @@ return iatExtension({
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://danielcheong22.github.io/iat/images/'
+			image : 'https://RRICI-IPS.github.io/IAT/images/'
 		} 
 	});
 });

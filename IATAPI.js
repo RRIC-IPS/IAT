@@ -88,7 +88,7 @@ debriefingTextBottom : 'This result is not a definitive assessment of your attit
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'awful'},
+					{word: 'badword1'},
 					{word: 'failure'},
 					{word: 'agony'},
 					{word: 'hurt'},
@@ -109,7 +109,7 @@ debriefingTextBottom : 'This result is not a definitive assessment of your attit
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'laughter'},
+					{word: 'goodword1'},
 					{word: 'happy'},
 					{word: 'glorious'},
 					{word: 'joy'},

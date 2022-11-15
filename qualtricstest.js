@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://RRICI-IPS.github.io/IAT/IATAPI.js'], function(APIConstructor, iatExtension){
+define(['pipAPI', 'https://RRIC-IPS.github.io/IAT/IATAPI.js'], function(APIConstructor, iatExtension){
     var API = new APIConstructor();
 
 return iatExtension({
@@ -40,7 +40,7 @@ return iatExtension({
 		},	
 
 		base_url : {//Where are your images at?
-			image : 'https://RRICI-IPS.github.io/IAT/images/'
+			image : 'https://RRIC-IPS.github.io/IAT/images/'
 		} 
 	});
 });
